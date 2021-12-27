@@ -16,4 +16,3 @@ const bgImage = document.createElement("img"); // img 태그 생성
 bgImage.src = `img/${chosenImage}`; // img 소스 지정
 
 document.body.appendChild(bgImage); // 생성한 bgImage를 body에 입력. append : body 제일 하단에 입력 / prepend : body 제일 상단에 입력
-console.log(bgImage);
