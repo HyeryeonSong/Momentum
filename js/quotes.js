@@ -1,33 +1,33 @@
 const quotes = [
   {
-    quote : "1", author : "1"
+    quote : "True Knowledge exists in knowing that you know nothing.", author : "Socrates"
   },
   {
-    quote : "2", author : "2"
+    quote : "The secret of happiness is renunciation.", author : "Andrew Carnegie"
   },
   {
-    quote : "3", author : "3"
+    quote : "Life is like riding bicycle. To keep your balance you must keep moving.", author : "Albert Einstein"
   },
   {
-    quote : "4", author : "4"
+    quote : "Never underestimate your own ignorance.", author : "Albert Einstein"
   },
   {
-    quote : "5", author : "5"
+    quote : "You never know what life is like, until you have lived it.", author : "Marilyn Monroe"
   },
   {
-    quote : "6", author : "6"
+    quote : "It's not that I'm so smart , it's just that I stay with problems longer.", author : "Albert Einstein"
   },
   {
-    quote : "7", author : "7"
+    quote : "We could never learn to be brave and patient, if there were only joy in the world.", author : "Helen Adams Keller"
   },
   {
-    quote : "8", author : "8"
+    quote : "Challenges are what make life interesting and overcoming them is what makes life meaningful.", author : "Joshua J. Marine"
   },
   {
-    quote : "9", author : "9"
+    quote : "Action is the foundational key to all success.", author : "Pablo Picasso"
   },
   {
-    quote : "10", author : "10"
+    quote : "The greatest glory in living lies not in never falling, but in rising every time we fall.", author : "Nelson Mandela"
   }
 ];
 
